@@ -8,3 +8,4 @@ while seconds > 0:
     print(f'{min}: {seconds} ')
     time.sleep(1)
     seconds = seconds - 1
+print("Time UP !!") 
